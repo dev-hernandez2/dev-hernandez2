@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_hernandez2" target="blank"><img src="https://img.shields.io/twitter/follow/dev_hernandez2?logo=twitter&style=for-the-badge" alt="dev_hernandez2" /></a> </p>
 
-- 🌱 I’m currently learning **GO, Kubernetes, AWS, Kafka, gRPC, Microservices architectures and security**
+- 🌱 I’m currently learning **GOlang, Kubernetes, AWS, Kafka, gRPC, Microservices architectures and security**
 
 - 📫 How to reach me **william@hernandez2.com**
 
